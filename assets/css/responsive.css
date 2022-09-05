@@ -28,6 +28,31 @@
     .contact-text .contact-name {
         font-size: 16px;
     }
+
+    .contact-info .social-links i {
+        padding-left: 0;
+    }
+
+    .contact-link {
+        margin-top: 16px;
+    }
+
+    .contact-info .social-links i {
+        padding-left: 0;
+    }
+
+    .contact-info .contact-qr {
+        margin-top: 28px;
+    }
+
+    .contact-qr .qr-text p {
+        font-size: 18px;
+        padding: 5px 10px;
+    }
+
+    .contact-qr .qr-img {
+        padding-top: 69%;
+    }
 }
 
 @media (min-width: 366px) and (max-width: 600px) {
@@ -49,7 +74,7 @@
     }
 
     .contact-text .avatar-contact {
-        margin-top: 16px;
+        margin-top: 32px;
     }
 
     .contact-text .avatar-contact .avatar-img {
@@ -59,6 +84,28 @@
     
     .contact-text .contact-name {
         font-size: 16px;
+    }
+
+    .contact-link {
+        margin-top: 16px;
+    }
+
+    .contact-info .social-links i {
+        padding-left: 0;
+    }
+
+
+    .contact-info .contact-qr {
+        margin-top: 28px;
+    }
+
+    .contact-qr .qr-text p {
+        font-size: 18px;
+        padding: 5px 10px;
+    }
+
+    .contact-qr .qr-img {
+        padding-top: 69%;
     }
 }
 
