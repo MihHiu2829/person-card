@@ -73,6 +73,10 @@
         padding: 4px;
     }
 
+    .about-section .about-text h2  {
+        margin-bottom: 0;
+    }
+
     .contact-text .avatar-contact {
         margin-top: 32px;
     }
