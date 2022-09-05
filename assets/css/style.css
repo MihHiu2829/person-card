@@ -104,7 +104,8 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: url("/assets/img/resourceDataWeb/avatar/avatar.jpg") no-repeat;
+    /* background: url("/assets/img/resourceDataWeb/avatar/avatar.jpg") no-repeat; */
+    background: url("https://lh3.google.com/u/0/d/1KJf9HAwIulEAZLffnH98mQLVmmIuHoNc=w1470-h902-iv1") no-repeat;
     background-size: cover;
     background-position: center;
     border: 2px solid;
@@ -205,7 +206,7 @@ body {
     width: 110px;
     height: 110px;
     border-radius: 50%;
-    background: url("/assets/img/resourceDataWeb/avatar/avatar.jpg") no-repeat;
+    background: url("https://lh3.google.com/u/0/d/1KJf9HAwIulEAZLffnH98mQLVmmIuHoNc=w1470-h902-iv1") no-repeat;
     background-size: cover;
     background-position: center;
     border: 2px solid;
@@ -285,7 +286,7 @@ body {
 }
 
 .contact-qr .qr-img {
-    background: url("/assets/img/resourceDataWeb/layout_3/zalo_qr.jpg") no-repeat;
+    background: url("https://lh3.google.com/u/0/d/1EDWKvZWmHQrGVGNk2uw0e6XasczV0hpS=w1470-h902-iv1") no-repeat;
     background-size: contain;
     background-position: center;
     padding-top: 50%;
